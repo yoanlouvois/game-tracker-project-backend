@@ -15,7 +15,7 @@ L'application s'appuie sur une base de données **MySQL** exécutée dans un con
 
 **Dépôt Frontend**
 
-Lien vers le dépôt frontend : https://github.com/yoanlouvois/front-end-game-tracker
+Lien vers le dépôt frontend : https://github.com/yoanlouvois/game-tracker-project-frontend
 
 **Infrastructure**
 
